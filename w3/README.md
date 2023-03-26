@@ -1,6 +1,7 @@
 ## Week3
    
 ### 이미지   
+![항공대 로고](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.kau.ac.kr%2Fcmm_typeA%2Fimages%2Fsub%2Fcm_2_1.jpg&tbnid=W0f8szyjVhnMTM&vet=12ahUKEwiSjvK86_n9AhWVCd4KHUtAA8kQMygqegUIARCYAg..i&imgrefurl=https%3A%2F%2Fwww.kau.ac.kr%2Fweb%2Fpages%2Fgc60434h.do&docid=H6fjtRQT1ag8qM&w=1182&h=591&q=%ED%95%9C%EA%B5%AD%ED%95%AD%EA%B3%B5%EB%8C%80%ED%95%99%EA%B5%90%20%EB%A1%9C%EA%B3%A0&ved=2ahUKEwiSjvK86_n9AhWVCd4KHUtAA8kQMygqegUIARCYAg)
    
 ### 링크
    
@@ -76,14 +77,15 @@ echo "$last_line"
    
 * 두번째
 <hr/>
-* 빨강
-- 녹색
+   
+* 빨강   
+- 녹색   
 + 파랑
    
 #### 강조
    
-*single asterisks*
-_single underscores_
-**double asterisks**
-__double underscores__
+*single asterisks*   
+_single underscores_   
+**double asterisks**   
+__double underscores__   
 ~~cancelline~~
